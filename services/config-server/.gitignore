@@ -1,0 +1,5 @@
+.SD_Store
+.idea
+*.idea
+*.iml
+/target/
