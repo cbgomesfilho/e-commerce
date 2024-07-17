@@ -1,6 +1,8 @@
+server:
+  port: 8051
 spring:
   profiles:
-    active: discovery
+    active: product-dev
   config:
     import: "optional:configserver:http://localhost:8888"
   application:
