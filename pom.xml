@@ -12,6 +12,7 @@
     <module>services/ms-customer</module>
     <module>services/config-server</module>
     <module>services/service-discovery</module>
+    <module>services/ms-product</module>
   </modules>
 
   <name>e-commerce</name>

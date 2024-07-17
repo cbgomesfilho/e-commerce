@@ -3,7 +3,7 @@ services:
     container_name: ms_ecommerce_acme
     image: postgres
     environment:
-      POSTGRES_DB: ms_ecommerce_acme
+      POSTGRES_DB: ms-product-ecomerce-acme
       POSTGRES_USER: cbgomes
       POSTGRES_PASSWORD: cbgomes
       PGDATA: /data/postgres
